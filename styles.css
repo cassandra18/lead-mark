@@ -56,5 +56,5 @@ a{
 .image{
   object-fit: cover;
   height:50%;
-
+aspect-ratio:35/4;
 }
