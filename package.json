@@ -1,0 +1,10 @@
+{
+  "name": "lead-mark",
+  "version": "1.0.0",
+  "description": "forked from https://github.com/cassandra18/lead-mark.git",
+  "main": "index.js",
+  "repository": "https://github.com/Domains18/lead-mark.git",
+  "author": "Domains18 <gibsonsgibson88@gmail.com>",
+  "license": "MIT",
+  "private": "false"
+}
