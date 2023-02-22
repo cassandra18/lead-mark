@@ -1,8 +1,14 @@
+html{
+    max-width: 100vw;
+}
+
 body{
 background: skyblue;
 height:100vh;
 width:100%;
 margin:0;
+
+
 }
 header{
     background-color: aliceblue;
