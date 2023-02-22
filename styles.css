@@ -56,3 +56,28 @@ a{
   height:50%;
 aspect-ratio:35/4;
 }
+.icon{
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
+#phone{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+}
+.icon-mail{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+#email{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row; 
+}
+.fb-icon{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;   
+}
